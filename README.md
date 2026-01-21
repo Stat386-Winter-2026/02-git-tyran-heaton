@@ -6,7 +6,7 @@ Objective:  Familiarize yourself with essential Git and GitHub commands and work
 
 Submission: After following all of the instructions below, add me (byu-kerby) as a collaborator (under settings in GitHub) to your repository and add your repo's link below. Be sure to commit your changes and push to GitHub (if updating this locally).
 
-Link: [Your GitHub Username Here](Your Link Here)
+Link: [TyranHeaton](git@github.com:TyranHeaton/Git_practice.git)
 
 Instructions:  
 
